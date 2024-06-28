@@ -1,0 +1,8 @@
+@tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+
+   
+
+   .farbe{padding: 30px;
+         background-color: blueviolet;}
